@@ -3,7 +3,7 @@
 > 这是一个的 基于 vue-admin-template  管理后台。带有permission-control 使用企业微信做登录页 
   
 
-目前版本为 `v4.0+` 基于 `vue-cli` 进行构建，若你想使用旧版本，可以切换分支到[tag/3.11.0](https://github.com/PanJiaChen/vue-admin-template/tree/tag/3.11.0)，它不依赖 `vue-cli`。
+目前版本为 `v4.0+` 基于 `vue-cli` 进行构建。
 
 ## Extra
 参考：https://github.com/PanJiaChen/vue-admin-template/tree/permission-control)
